@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="prolab2_arayuz/jarx/210202043.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/prolab2_arayuz/210202043.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=prolab2_arayuz/src&lt;prolab2{oyun.java[oyun" manifestLocation="/lab/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/prolab2_arayuz/.project"/>
+        <javaElement handleIdentifier="=prolab2_arayuz/src"/>
+        <file path="/prolab2_arayuz/.classpath"/>
+    </selectedElements>
+</jardesc>

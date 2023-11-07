@@ -1,0 +1,74 @@
+Bilgisayar 1 olusturuluyor
+Bilgisayar 2 olusturuluyor
+1. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=makas
+Bilgisayar 2in nesnesi=tas
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    15.0
+b2 nesnesi:   18.75
+2. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=makas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    18.75
+b2 nesnesi:   15.0
+3. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=makas
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    15.0
+b2 nesnesi:   18.75
+4. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=makas
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    15.0
+b2 nesnesi:   18.75
+5. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=makas
+Bilgisayar 2in nesnesi=makas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+6. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=makas
+Bilgisayar 2in nesnesi=tas
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    10.0
+b2 nesnesi:   17.5
+7. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=makas
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    10.0
+b2 nesnesi:   17.5
+8. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=makas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    17.5
+b2 nesnesi:   10.0
+Hamle sayisi bitti.Kazanan hesaplaniyor
+B1
+B2
+B2 oyuncusu Kazandi

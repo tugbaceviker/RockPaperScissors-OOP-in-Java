@@ -1,0 +1,754 @@
+Bilgisayar 1 olusturuluyor
+Bilgisayar 2 olusturuluyor
+1. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=makas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    18.75
+b2 nesnesi:   15.0
+2. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+3. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    15.0
+b2 nesnesi:   18.75
+4. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+5. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=makas
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    15.0
+b2 nesnesi:   18.75
+6. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=makas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    17.5
+b2 nesnesi:   13.75
+7. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    15.0
+b2 nesnesi:   13.75
+8. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=makas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    16.25
+b2 nesnesi:   8.75
+9. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=makas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    15.0
+b2 nesnesi:   8.75
+10. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+11. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+12. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    10.0
+b2 nesnesi:   7.5
+13. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+14. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=makas
+Bilgisayar 2in nesnesi=tas
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    10.0
+b2 nesnesi:   18.75
+15. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    5.0
+b2 nesnesi:   6.25
+16. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+17. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    10.0
+b2 nesnesi:   5.0
+18. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+19. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=makas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    8.75
+b2 nesnesi:   0.0
+B2 in nesnesi oldu
+B1 in nesnesinn seviye puani arttirildi
+20. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+21. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    5.0
+b2 nesnesi:   7.5
+22. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=makas
+Bilgisayar 2in nesnesi=tas
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    3.75
+b2 nesnesi:   18.75
+23. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+24. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=makas
+Bilgisayar 2in nesnesi=tas
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    -1.25
+b2 nesnesi:   17.5
+B1 in nesnes oldu
+B2 in nesnesinn seviye puani arttirildi
+25. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+26. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+27. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    0.0
+b2 nesnesi:   6.25
+B1 in nesnes oldu
+B2 in nesnesinn seviye puani arttirildi
+28. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    15.0
+b2 nesnesi:   5.0
+29. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+30. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+31. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+32. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+33. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+34. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+35. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+36. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+37. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    10.0
+b2 nesnesi:   3.75
+38. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+39. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+40. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+41. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  1.25
+b2 oyuncusunun b1 oyuncususne veriği etki :  5.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    0.0
+b2 nesnesi:   2.5
+B1 in nesnes oldu
+B2 in nesnesinn seviye puani arttirildi
+Kagit nesnesi ozel kagita donduruludu
+42. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=tas
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+43. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=tas
+Bilgisayar 2in nesnesi=ozel_kagit
+b1 oyuncusunun b2 oyuncususne veriği etki :  0.625
+b2 oyuncusunun b1 oyuncususne veriği etki :  10.0
+Nesnelerin son dayanikliklari
+b1 nesnesi:    0.0
+b2 nesnesi:   19.375
+B1 in nesnes oldu
+B2 in nesnesinn seviye puani arttirildi
+44. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=tas
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    13.75
+b2 nesnesi:   12.5
+45. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+46. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+47. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+48. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=tas
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    12.5
+b2 nesnesi:   7.5
+49. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+50. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=tas
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    11.25
+b2 nesnesi:   2.5
+51. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=tas
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    10.0
+b2 nesnesi:   -2.5
+B2 in nesnesi oldu
+B1 in nesnesinn seviye puani arttirildi
+52. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+53. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=tas
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    8.75
+b2 nesnesi:   13.75
+54. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=tas
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    7.5
+b2 nesnesi:   8.75
+55. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+56. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=tas
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    6.25
+b2 nesnesi:   3.75
+57. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+58. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+59. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=kagit
+Bilgisayar 2in nesnesi=tas
+b1 oyuncusunun b2 oyuncususne veriği etki :  5.0
+b2 oyuncusunun b1 oyuncususne veriği etki :  1.25
+Nesnelerin son dayanikliklari
+b1 nesnesi:    5.0
+b2 nesnesi:   -1.25
+B2 in nesnesi oldu
+B1 in nesnesinn seviye puani arttirildi
+Kagit nesnesi ozel kagita donduruludu
+60. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+61. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+62. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+63. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+64. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+65. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+66. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+67. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+68. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+69. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+70. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+71. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+72. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+73. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+74. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+75. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+76. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+77. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+78. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+79. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+80. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+81. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+82. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+83. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+84. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+85. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+86. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+87. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+88. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+89. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+90. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+91. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+92. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+93. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+94. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+95. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+96. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+97. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+98. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+99. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+100. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+101. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+102. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+103. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+104. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+105. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+106. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+107. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+108. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+109. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+110. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+111. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+112. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+113. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+114. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+115. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+116. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+117. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+118. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+119. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+120. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+121. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+122. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+123. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+124. hamledesiniz
+Savasacak nesneler belirleniyor
+Bilgisayar 1in nesnesi=ozel_kagit
+Bilgisayar 2in nesnesi=ozel_kagit
+Nesneler aynı tür. Birbirlerine zarar veremiyor
+Hamle sayisi bitti.Kazanan hesaplaniyor
+B1
+B2
+B2 oyuncusu Kazandi
